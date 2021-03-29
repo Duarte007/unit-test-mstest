@@ -1,0 +1,6 @@
+C:\Users\mathe\OneDrive\Documentos\PUC\5° Periodo\Fundamentos de Testes\test2\test2\bin\Debug\test2.exe.config
+C:\Users\mathe\OneDrive\Documentos\PUC\5° Periodo\Fundamentos de Testes\test2\test2\bin\Debug\test2.exe
+C:\Users\mathe\OneDrive\Documentos\PUC\5° Periodo\Fundamentos de Testes\test2\test2\bin\Debug\test2.pdb
+C:\Users\mathe\OneDrive\Documentos\PUC\5° Periodo\Fundamentos de Testes\test2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\PUC\5° Periodo\Fundamentos de Testes\test2\test2\obj\Debug\test2.exe
+C:\Users\mathe\OneDrive\Documentos\PUC\5° Periodo\Fundamentos de Testes\test2\test2\obj\Debug\test2.pdb
